@@ -118,8 +118,6 @@ SecureChain-Docs/
 │   ├── Controllers/       # Admin, Api, Auth, Document
 │   ├── Filters/           # Rate limiting, Security headers, IP Whitelist
 │   ├── Libraries/         # Core: BlockHash, MajorityRecovery,
-│   │                      #   IntegrityCheck, ConsensusMonitoring,
-│   │                      #   CountdownRecovery, TelegramService, JWT
 │   ├── Models/            # Block, Backup, User, Whitelist, ActivityLog
 │   └── Views/             # Admin & user panel views
 ├── mockup/                # Mockup HTML desain
