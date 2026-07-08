@@ -83,7 +83,6 @@ Sistem manajemen dokumen berbasis blockchain dengan mekanisme **konsensus mayori
 git clone https://github.com/Rian-Hadi/SecureChain_Docs.git
 cd SecureChain_Docs
 composer install
-cp env .env
 php spark serve
 ```
 
